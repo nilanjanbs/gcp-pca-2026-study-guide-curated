@@ -21,13 +21,11 @@
 - [About This Guide](#-about-this-guide)
 - [Exam Overview](#-exam-overview)
 - [Exam Domains](#-exam-domains)
-- [Repository Structure](#-repository-structure)
 - [How to Use This Guide](#-how-to-use-this-guide)
 - [2025–2026 Key Changes](#-2025-2026-key-changes)
 - [Study Plan](#-study-plan)
 - [Master Quick-Reference Card](#-master-quick-reference-card)
 - [Additional Resources](#-additional-resources)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
