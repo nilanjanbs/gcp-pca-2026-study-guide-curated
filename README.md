@@ -26,6 +26,13 @@
 - [Study Plan](#-study-plan)
 - [Master Quick-Reference Card](#-master-quick-reference-card)
 - [Additional Resources](#-additional-resources)
+- [Curated Youtube Playlist and Documents](#-curated-youtube-playlist-and-documents)
+- [Coverage Status](#-coverage-status)
+- [License](#-license)
+
+---
+
+## 📖 About This Guide and Documents)
 - [License](#-license)
 
 ---
@@ -335,6 +342,12 @@ These are the most impactful changes for the 2026 exam that older study guides m
 | Case Studies | [TerramEarth](https://services.google.com/fh/files/blogs/master_case_study_terramearth.pdf) · [Mountkirk](https://services.google.com/fh/files/blogs/master_case_study_mountkirk_games.pdf) · [HRL](https://services.google.com/fh/files/blogs/master_case_study_helicopter_racing_league.pdf) · [EHR](https://services.google.com/fh/files/blogs/master_case_study_ehr_healthcare.pdf) |
 | GCP Documentation | [cloud.google.com/docs](https://cloud.google.com/docs) |
 | Architecture Center | [cloud.google.com/architecture](https://cloud.google.com/architecture) |
+
+---
+
+## 📚 Curated Youtube Playlist and Documents
+
+Please visit the this page [Curated Youtube Playlist and Documents](./RESOURCES.md) for a curated list of Youtube Playlist , Medium Articles,Blogs and Offcial Google Cloud Documentation
 
 ### Practice Exams (Third-Party)
 
