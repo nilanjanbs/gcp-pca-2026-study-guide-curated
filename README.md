@@ -302,7 +302,7 @@ These are the most impactful changes for the 2026 exam that older study guides m
 
 ## 🗺️ Master Quick-Reference Card
 
-> Open the [Master Guide](./quick-reference/GCP_PCA_2026_MasterGuide.md) for the full 50+ row scenario → solution table.
+> Open the [Master Guide](./Master_Quick_Reference_Card.md) for the full 200+ row scenario → solution table.
 
 **High-frequency scenario signals (memorize these):**
 
